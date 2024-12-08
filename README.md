@@ -7,6 +7,6 @@ Diamond Logo link
 
 ## 🎨Color code
 
-`#102542`
-`#F87060`
+`#102542`  
+`#F87060`  
 `#CDD7D6`
