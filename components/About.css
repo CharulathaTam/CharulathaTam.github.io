@@ -1,0 +1,25 @@
+.about {
+    padding: 100px 35px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Set the font for the entire section */
+    color: #CDD7D6;
+  }
+  
+  .about h6 {
+    margin-bottom: -15px;
+    font-size: 2rem;
+  }
+  .about h5{
+    margin-bottom: -50px;
+    font-size: 20px;
+    color: #F87060;
+  }
+  .about h4 {
+    margin-bottom: 10px;
+    font-size: 1.6rem;
+  }
+  .about p {
+    font-size: 1.1rem;
+    line-height: 1.2;
+  }
+  
