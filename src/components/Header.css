@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px;
+    color: #CDD7D6;
+    font-size: medium;
+    font-weight: 400;
+  }
+  
+  .navbar a {
+    position: relative;
+    margin: 0 15px;
+    color: #CDD7D6;
+    text-decoration: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  .navbar a::after {
+    content: ''; /* Pseudo-element content */
+    position: absolute;
+    left: 0;
+    bottom: -3px; /* Adjust the distance of underline from text */
+    width: 0%; /* Starts at 0% width */
+    height: 1px; /* Thickness of the underline */
+    background-color: #F87060; /* Color of the underline */
+    transition: width 0.3s ease-in-out; /* Smooth animation */
+  }
+  
+  .navbar a:hover::after {
+    width: 100%; /* Expands underline to full width on hover */
+  }
+  

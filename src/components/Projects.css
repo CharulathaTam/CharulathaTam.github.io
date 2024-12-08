@@ -1,0 +1,23 @@
+.projects {
+    padding: 50px;
+    text-align: center;
+    color: #CDD7D6
+  }
+  
+  .project-list {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: black;
+  }
+  
+  .project-card {
+    background: #CDD7D6;
+    padding: 20px;
+    /*border: 1px solid #CDD7D6;*/
+    border-radius: 15px;
+    width: 250px;
+    text-align: left;
+  }
+  
