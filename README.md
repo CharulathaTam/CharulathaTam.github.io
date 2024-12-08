@@ -7,6 +7,7 @@ Diamond Logo link
 
 ## 🎨Color code
 
-`#102542`  
-`#F87060`  
-`#CDD7D6`
+![#102542](https://placehold.co/15x15/102542/102542.png)`#102542`  
+![#F87060](https://placehold.co/15x15/F87060/F87060.png)`#F87060`  
+![#CDD7D6](https://placehold.co/15x15/CDD7D6/CDD7D6.png)`#CDD7D6`  
+
